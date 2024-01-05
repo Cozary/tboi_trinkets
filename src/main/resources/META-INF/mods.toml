@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GPL-3.0-or-later"
+issueTrackerURL="https://github.com/Cozary/tboi_trinkets/issues"
+
+[[mods]]
+modId="tboit"
+version="1.16.5-0.4.0-Beta"
+displayName="Tboi Trinkets"
+credits = "Thanks for download this mod 🍉"
+authors = "Cozary"
+description = '''Beta Realease - Search and find the Binding Of Isaac Trinkets!'''
+
+[[dependencies.tboit]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.tboit]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
