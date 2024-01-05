@@ -8,7 +8,7 @@ I hope this code is useful in some way, idk.
 
 # Forge
 
-[![Versions](https://cf.way2muchnoise.eu/versions/514547.svg)](https://www.curseforge.com/minecraft/mc-mods/tboi-trinkets) [![Downloads](http://cf.way2muchnoise.eu/full_514547_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/tboi-trinkets)
+[![Versions](https://img.shields.io/curseforge/game-versions/514547)](https://www.curseforge.com/minecraft/mc-mods/tboi-trinkets) [![Downloads](https://img.shields.io/curseforge/dt/514547?style=flat)](https://www.curseforge.com/minecraft/mc-mods/tboi-trinkets)
 
 ## Contributing
 
